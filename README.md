@@ -1,0 +1,2 @@
+# newmicroservices
+jhipsterproject
